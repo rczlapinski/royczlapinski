@@ -1,0 +1,64 @@
+
+.roy {
+ margin-left: auto;
+ margin-right: auto;
+ width: 300px;
+ height: 300px;
+ border-radius: 50rem;
+}
+.row-content {
+ padding: 50px 0;
+ min-height: 200px;
+ align-content: center;
+}
+.container {
+  color: white;
+}
+.kids {
+  width: 480px;
+  height: 360px;
+}
+.main_text {
+  color: white;
+  padding-left: 50px;
+  padding-right: 50px
+}
+.main_text_home {
+  color: white;
+  padding-top: 25px;
+  padding-left: 50px;
+  padding-right: 50px
+}
+footer {
+  padding-top: 100px;
+  margin-bottom: 25px
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color:white;
+}
+p {
+  color: white;
+}
+a {
+  color: white;
+}
+.footer {
+  position: fixed;
+  padding-right: 20px;
+  height:20px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: right;
+}
+.social-link {
+  text-align: center;
+  color: white;
+}
